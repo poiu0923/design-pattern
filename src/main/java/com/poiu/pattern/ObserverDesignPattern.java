@@ -1,4 +1,4 @@
-package com.poiu;
+package com.poiu.pattern;
 
 import java.util.ArrayList;
 import java.util.List;
