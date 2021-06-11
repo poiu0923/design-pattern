@@ -1,4 +1,4 @@
-package com.poiu.pattern;
+package com.poiu.pattern.action;
 
 import java.util.HashMap;
 import java.util.Map;
